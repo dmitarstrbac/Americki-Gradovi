@@ -1,0 +1,8 @@
+body {background-color:#9370DB}
+h2 {text-align:center; font-size:30px; color:white}
+hr {width:50%; border-width:2px; border-color:#0000CD}
+h3 {font-size:25px; color:#FFFF00}
+	p {font-size:18px; color:white}
+	figcaption {font-size:18px; color:white}
+	.prva {list-style-image:url("Слике Дмитар Штрбац/Leptirić.png"); font-size:18px}
+	ul {list-style-type:square; font-size:18px}

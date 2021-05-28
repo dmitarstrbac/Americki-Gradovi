@@ -1,0 +1,8 @@
+body {background-color:#00BFFF}
+h2 {text-align:center; font-size:30px}
+hr {width:50%; border-color:red; border-width:2px}
+h3 {font-size:25px}
+	p {font-size:18px}
+	figcaption {font-size:18px}
+	.prva {list-style-type:disc; font-size:18px}
+	.druga {list-style-type:square; font-size:18px}
