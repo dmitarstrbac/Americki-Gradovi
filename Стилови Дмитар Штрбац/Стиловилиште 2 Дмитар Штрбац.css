@@ -1,0 +1,7 @@
+body {background-color:#FF0000}
+h1 {color:#00FF00}
+	p {font-size:18px}
+	ul {list-style-type:square; font-size:18px}
+	h2 {color:#00FF00}
+	hr {border-color:yellow}
+	.box {width:80%; padding:1em; border:9px #B1FB17 solid; box-sizing:border-box; background-color:#4EE2EC}

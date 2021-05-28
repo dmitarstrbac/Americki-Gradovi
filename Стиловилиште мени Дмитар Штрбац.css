@@ -1,0 +1,6 @@
+body {background-color:#00FF00; font-family:fantasy, Stencild Std}
+h1 {font-size:45px; padding:10px}
+nav {background-color:#FFD801; height:270px}
+ul {list-style-type:none; display:flex; margin:2px; padding:100px}
+ul li {float:center; height:50px}
+ul li a {background-color:indigo; border:5px solid #00FFFF; color:#F70D1A; font-size:30px; padding:30px; margin:20px}
